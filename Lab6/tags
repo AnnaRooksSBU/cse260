@@ -1,0 +1,17 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+compare	/home/annarooks/Docs/CSE/Y2/Lab6/CompareY.java	/^    public int compare(Point p1, Point p2) {$/;"	m	language:Java	class:CompareY
+compareTo	/home/annarooks/Docs/CSE/Y2/Lab6/Point.java	/^    public int compareTo(Point p) {$/;"	m	language:Java	class:Point
+CompareY	/home/annarooks/Docs/CSE/Y2/Lab6/CompareY.java	/^public class CompareY implements java.util.Comparator<Point> {$/;"	c	language:Java
+getX	/home/annarooks/Docs/CSE/Y2/Lab6/Point.java	/^    public int getX() { return x; }$/;"	m	language:Java	class:Point
+getY	/home/annarooks/Docs/CSE/Y2/Lab6/Point.java	/^    public int getY() { return y; }$/;"	m	language:Java	class:Point
+Lab61	/home/annarooks/Docs/CSE/Y2/Lab6/Lab61.java	/^public class Lab61 {$/;"	c	language:Java
+Lab62	/home/annarooks/Docs/CSE/Y2/Lab6/Lab62.java	/^public class Lab62 {$/;"	c	language:Java
+Lab63	/home/annarooks/Docs/CSE/Y2/Lab6/Lab63.java	/^public class Lab63 {$/;"	c	language:Java
+main	/home/annarooks/Docs/CSE/Y2/Lab6/Lab61.java	/^    public static void main(String[] args) {$/;"	m	language:Java	class:Lab61
+main	/home/annarooks/Docs/CSE/Y2/Lab6/Lab62.java	/^    public static void main(String[] args) {$/;"	m	language:Java	class:Lab62
+main	/home/annarooks/Docs/CSE/Y2/Lab6/Lab63.java	/^    public static void main(String[] args) {$/;"	m	language:Java	class:Lab63
+Point	/home/annarooks/Docs/CSE/Y2/Lab6/Point.java	/^    public Point(int coordX, int coordY) {$/;"	m	language:Java	class:Point
+Point	/home/annarooks/Docs/CSE/Y2/Lab6/Point.java	/^public class Point implements Comparable<Point> {$/;"	c	language:Java
+toString	/home/annarooks/Docs/CSE/Y2/Lab6/Point.java	/^    public String toString() { return "("+x+","+y+")"; }$/;"	m	language:Java	class:Point
+x	/home/annarooks/Docs/CSE/Y2/Lab6/Point.java	/^    private int x;$/;"	f	language:Java	class:Point	file:
+y	/home/annarooks/Docs/CSE/Y2/Lab6/Point.java	/^    private int y;$/;"	f	language:Java	class:Point	file:

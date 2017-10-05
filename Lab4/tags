@@ -1,0 +1,7 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+Lab2Driver	/home/annarooks/Docs/CSE/Y2/Lab4/Lab2Driver.java	/^public class Lab2Driver {$/;"	c	language:Java
+LargestInArrayList	/home/annarooks/Docs/CSE/Y2/Lab4/LargestInArrayList.java	/^public class LargestInArrayList {$/;"	c	language:Java
+main	/home/annarooks/Docs/CSE/Y2/Lab4/Lab2Driver.java	/^    public static void main(String[] args) {$/;"	m	language:Java	class:Lab2Driver
+max	/home/annarooks/Docs/CSE/Y2/Lab4/LargestInArrayList.java	/^    public static <E extends Comparable<E>> E max(ArrayList<E> list) {$/;"	m	language:Java	class:LargestInArrayList
+sort	/home/annarooks/Docs/CSE/Y2/Lab4/SortArrayList.java	/^    public static <E extends Comparable<E>> void sort(ArrayList<E> list) {$/;"	m	language:Java	class:SortArrayList
+SortArrayList	/home/annarooks/Docs/CSE/Y2/Lab4/SortArrayList.java	/^public class SortArrayList {$/;"	c	language:Java

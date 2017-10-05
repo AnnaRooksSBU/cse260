@@ -1,0 +1,12 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+binarySearch	/home/annarooks/Docs/CSE/Y2/Lab1/TimeExecution.java	/^    public static int binarySearch(int[] array,int key) {$/;"	m	language:Java	class:TimeExecution
+Collatz	/home/annarooks/Docs/CSE/Y2/Lab1/Collatz.java	/^public class Collatz {$/;"	c	language:Java
+distinctNumbers	/home/annarooks/Docs/CSE/Y2/Lab1/PrintingDistinctNumbers.java	/^    public static String distinctNumbers() {$/;"	m	language:Java	class:PrintingDistinctNumbers
+executeTimes	/home/annarooks/Docs/CSE/Y2/Lab1/TimeExecution.java	/^    public static String executeTimes(int[] array,int key) {$/;"	m	language:Java	class:TimeExecution
+howManyCollatzIterations	/home/annarooks/Docs/CSE/Y2/Lab1/Collatz.java	/^    public static int howManyCollatzIterations(int n) {$/;"	m	language:Java	class:Collatz
+linearSearch	/home/annarooks/Docs/CSE/Y2/Lab1/TimeExecution.java	/^    public static int linearSearch(int[] array,int key) {$/;"	m	language:Java	class:TimeExecution
+main	/home/annarooks/Docs/CSE/Y2/Lab1/Collatz.java	/^    public static void main(String[] args) {$/;"	m	language:Java	class:Collatz
+main	/home/annarooks/Docs/CSE/Y2/Lab1/PrintingDistinctNumbers.java	/^    public static void main(String[] args) {$/;"	m	language:Java	class:PrintingDistinctNumbers
+main	/home/annarooks/Docs/CSE/Y2/Lab1/TimeExecution.java	/^    public static void main(String[] args) {$/;"	m	language:Java	class:TimeExecution
+PrintingDistinctNumbers	/home/annarooks/Docs/CSE/Y2/Lab1/PrintingDistinctNumbers.java	/^public class PrintingDistinctNumbers {$/;"	c	language:Java
+TimeExecution	/home/annarooks/Docs/CSE/Y2/Lab1/TimeExecution.java	/^public class TimeExecution {$/;"	c	language:Java
